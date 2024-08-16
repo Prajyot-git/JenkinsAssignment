@@ -3,11 +3,15 @@ Jenkins-Assignment-Velocity-Shantanu sir
 
 
 
-Assignmet No.1 --
+Assignment No.1 -- Jenkins Install as a Service & as a WAR file 
 
-Assignmet No.2 --
+Assignment No.2 -- Deploy index.html file in apache hhtpd
 
-Assignmet No.3 --
+Assignment No.3 -- Deploy Repo-2 Repo-2 Repo-3 in apache httpd
+
+Assignment No.4 -- Delpoy Branches in apache hhtpd 
+
+
 
 
 
