@@ -11,6 +11,11 @@ Assignment No.3 -- Deploy Repo-2 Repo-2 Repo-3 in apache httpd
 
 Assignment No.4 -- Delpoy Branches in apache hhtpd 
 
+Assignment No.5 -- Deploy War File from Jm to ec2-1 & ec2-2 (server1 & server2)
+
+
+
+
 
 
 
